@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jdd2020
 - 👀 I’m interested in creating a few personal projects inbetween semesters
-- 🌱 I’m currently learning java and python
 - 📫 How to reach me email: jamesduty123@gmail.com or jdd89@pitt.edu
 
 <!---
